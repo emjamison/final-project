@@ -1,0 +1,38 @@
+#container {
+	padding: 150px;  
+	margin: 10px;
+	width: 1275px;
+	height: 700px;	
+}
+
+
+body{
+	background-color: #F1F1A8;
+}
+
+#beforeSorting, #afterSorting {
+	
+	font-size: 50px;
+	text-align: center;
+}
+
+.columnleft{
+	background-color:lightgreen;
+	text-align: center;
+}
+
+.columnright{
+	background-color:pink;
+	text-align: center;
+}
+
+.restart{
+	margin: 2px;
+	text-align: center;
+}
+
+h1{
+	font-weight: bold;
+	font-size: 150px;
+	text-align: center;
+}
